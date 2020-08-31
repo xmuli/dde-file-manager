@@ -83,6 +83,7 @@
 
 #include <QMimeType>
 #include <QMimeDatabase>
+#include <QPainterPath>
 
 
 #ifdef __cplusplus
